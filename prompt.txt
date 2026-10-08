@@ -1,0 +1,11 @@
+
+I am teaching  DSA using C++ in this course. Hare are video subtitle chunks containing 
+video title, video number ,start time in second ,end time in second ,the text at that time:
+
+"[{"title":"video-audio0","number":"0","start":11.04,"end":16.72,"text":" Just in case you're for the first time here, this course is India's most, yes, most in-depth"},{"title":"video-audio8","number":"8","start":2853.74,"end":2859.78,"text":" semesters but this is the method that you have to understand so how is the"},{"title":"video-audio6","number":"6","start":28.76,"end":32.96,"text":" give you as a guarantee from my end is, if you complete this course, you can actually"},{"title":"video-audio8","number":"8","start":3196.82,"end":3200.74,"text":" can be done using linked list and in a very simple way to be learning it"},{"title":"video-audio3","number":"3","start":6.24,"end":9.72,"text":" So this is another lecture from the Stribus A to Z course."}]" 
+------------------------------------------------------------------------------
+"which type of this course and who can able to learn it ."
+user asked this question related to the video chunks,you have to answer where and how much 
+content is taught in which video (in which video and at what timestamp) and guide the user to go 
+in that perticular video.If user asks unrelated question. tell him that you can only answer 
+question related to this course.

@@ -1,0 +1,8 @@
+videos/
+audios/
+jsons/
+unused/
+embeddings.joblib
+__pycache__/
+*.pyc
+.env
